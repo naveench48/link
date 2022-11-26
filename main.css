@@ -1,0 +1,14 @@
+.movie{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.movie a{
+    text-align: center;
+    text-decoration: none;
+    background-color: brown;
+    padding: 20px;
+    color: white;
+
+}
